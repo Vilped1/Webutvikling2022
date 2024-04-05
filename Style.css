@@ -1,0 +1,15 @@
+body{
+    max-width: 900px; /*Hvor langt ut teksten skal gå*/
+    width: 100%; 
+    margin: 0 auto; /*0=Avstanden over og under. Auto=bruker plassen som er tilgjengelig på sidene*/
+}
+
+img{
+    width: 100%;
+    max-width: 400px;
+}
+
+.aqua-box{ /*punktum betyr at vi "snakker" om en klasse*/
+    background-color: aqua;
+}
+/* # hvis vi skal "snakke" til en id*/
